@@ -1,3 +1,7 @@
+/**
+api的控制器配置
+**/
+
 package apis
 
 import (

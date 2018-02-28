@@ -1,3 +1,6 @@
+/**
+页面路由控制器配置
+**/
 package controllers
 
 import (
